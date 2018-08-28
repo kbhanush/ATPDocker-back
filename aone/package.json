@@ -6,8 +6,8 @@
     "crypto": "0.0.3",
     "express": "^4.16.3",
     "jwt-simple": "^0.3.1",
-    "lodash": "^3.10.1",
-    "oracledb": "^2.3.0"
+    "lodash": "^3.10.1"
+    
   },
   "devDependencies": {},
   "engines": {
